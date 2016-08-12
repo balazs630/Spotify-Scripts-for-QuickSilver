@@ -20,7 +20,7 @@ In order to set up:
   - Save
   
 3.) Set up keyboard shortcut to trigger the action:
-  - Shortcut: e.x. F15 key
+  - Shortcut: e.g. F15 key
   - Activate: On press
 
   For Volume Down and Volume up triggers I recommend using:
