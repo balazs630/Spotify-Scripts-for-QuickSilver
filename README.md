@@ -9,7 +9,6 @@ Functions:
 - Volume Down
 - Volume Up
 
-In order to set up:
 
 1.) Install QuickSilver
     https://qsapp.com/index.php
